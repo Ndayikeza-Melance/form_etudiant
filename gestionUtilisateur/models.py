@@ -1,0 +1,1 @@
+from gestionUtilisateur.modules.personnes.models import Personne
